@@ -14,16 +14,21 @@ import requests
 def check_version():
   ### check python version
   print("Python version : ", sys.version)
+  print("-"*30)
   
   ### check cuda version and name
   print("PyTorch version : ", torch.__version__)
+  print("-"*30)
   print("Torchvision version : ", torchvision.__version__)
+  print("-"*30)
   print("CUDA is available : ", torch.cuda.is_available())
-  print("cuda version: {}".format(torch.version.cuda))
+  print("CUDA version: {}".format(torch.version.cuda))
   print("cudnn version:{}".format(torch.backends.cudnn.version()))
+  print("-"*30)
   
   ### check transformers version 
   print("Transformers version : ", transformers.__version__)
+  print("-"*30)
   
 def set_cuda():
   device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -90,3 +95,7 @@ def running_sam():
 
   ### showing mask
   show_masks_on_image(raw_image, masks[0], scores)
+
+if __name__ == "__main__":
+  check_version()
+  running_sam()
