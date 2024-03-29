@@ -4,6 +4,12 @@
 ### Directory 규칙
 - 가능한 한개의 영단어로 표현
 
+### Commit 규칙
+- 어떤 부분을 만들어 혹은 수정하여 커밋한 것인지 내용 먼저 작성 후 날짜 작성
+- e.g., test case 코드 작성 완료 2024.03.29
+- 날짜 작성의 경우 편한대로 작성해도 상관없음
+  - 다만 년월일 순으로 통일할 것
+
 ### Branch 규칙
 - branch 명은 본인의 팀(e.g., sam, server, image classification 등)을 앞에 붙이고 어떤 작업을 위한 브랜치인지 명시
   - sam/make_test_case -> test case 만드는 브랜치
