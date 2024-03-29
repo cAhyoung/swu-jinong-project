@@ -13,7 +13,8 @@
 ### Branch 규칙
 - branch 명은 본인의 팀(e.g., sam, server, image classification 등)을 앞에 붙이고 어떤 작업을 위한 브랜치인지 명시
   - sam/make_test_case -> test case 만드는 브랜치
-  - image classification의 경우에는 앞글자만 딴 약자로 이용 : ic
+  - 두단어 이상으로 만들어진 경우에는 앞글자만 딴 약자로 이용
+    - image classification의 경우에는 앞글자만 딴 약자로 이용 : ic
 - 가능한 동사+명사로 어떤 작업을 할 것인지 구체적으로 명시
 - branch pull request의 경우 해당 작업이 끝난 후 한번에 pull request 넣을 것
   - 단순 백업용으로 자주 pull request X
