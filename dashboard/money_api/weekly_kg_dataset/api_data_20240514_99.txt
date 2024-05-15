@@ -1,0 +1,10 @@
+{
+    "errorText": "",
+    "data": [],
+    "totCnt": 0,
+    "pageNo": "1",
+    "statusText": "성공",
+    "errorCode": "",
+    "dataCnt": 0,
+    "status": "success"
+}

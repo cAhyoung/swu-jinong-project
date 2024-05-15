@@ -1,0 +1,88 @@
+{
+    "errorText": "",
+    "data": [
+        {
+            "rn": 1,
+            "whsalcd": "320201",
+            "whsalname": "원주",
+            "large": "08",
+            "mid": "04",
+            "largename": "과일과채류",
+            "midname": "딸기",
+            "totqty": 5,
+            "totamt": 22500
+        },
+        {
+            "rn": 2,
+            "whsalcd": "330101",
+            "whsalname": "청주",
+            "large": "08",
+            "mid": "04",
+            "largename": "과일과채류",
+            "midname": "딸기",
+            "totqty": 2652,
+            "totamt": 11367900
+        },
+        {
+            "rn": 3,
+            "whsalcd": "330201",
+            "whsalname": "충주",
+            "large": "08",
+            "mid": "04",
+            "largename": "과일과채류",
+            "midname": "딸기",
+            "totqty": 516,
+            "totamt": 2545800
+        },
+        {
+            "rn": 4,
+            "whsalcd": "350101",
+            "whsalname": "전주",
+            "large": "08",
+            "mid": "04",
+            "largename": "과일과채류",
+            "midname": "딸기",
+            "totqty": 1363,
+            "totamt": 4780400
+        },
+        {
+            "rn": 5,
+            "whsalcd": "350301",
+            "whsalname": "익산",
+            "large": "08",
+            "mid": "04",
+            "largename": "과일과채류",
+            "midname": "딸기",
+            "totqty": 335,
+            "totamt": 1415900
+        },
+        {
+            "rn": 6,
+            "whsalcd": "360301",
+            "whsalname": "순천",
+            "large": "08",
+            "mid": "04",
+            "largename": "과일과채류",
+            "midname": "딸기",
+            "totqty": 822,
+            "totamt": 5769500
+        },
+        {
+            "rn": 7,
+            "whsalcd": "380303",
+            "whsalname": "창원내서",
+            "large": "08",
+            "mid": "04",
+            "largename": "과일과채류",
+            "midname": "딸기",
+            "totqty": 1421.2,
+            "totamt": 8146500
+        }
+    ],
+    "totCnt": 7,
+    "pageNo": 1,
+    "statusText": "성공",
+    "errorCode": "",
+    "dataCnt": 7,
+    "status": "success"
+}
