@@ -1,2 +1,5 @@
 # swu-jinong-project
-서울여자대학교 데이터사이언스학과 산학연계프로젝트 레포지토리입니다.
+### TEAM
+|<a href="https://github.com/cAhyoung">조아영</a>|<a href="https://github.com/seoyeon83">김서연</a>|<a href="https://github.com/kimsuji-1">김수지</a>|<a href="https://github.com/mjee29">김민정</a>|<a href="https://github.com/onegyulim">한규림</a>|
+|-------|------|------|-------|------|
+||||||
